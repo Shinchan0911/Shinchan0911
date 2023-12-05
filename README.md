@@ -2,7 +2,7 @@
 
 Hello and welcome to my profile! 👋
 
-I'm Shinchan0911, ShinTHL09, ShinTuna :)
+I'm Shinchan0911, ShinTHL09, ShinTuna :) <br>
 I'm a passionate Node.js Developer who is currently diving into the world of Java. My interests revolve around IoT and Cybersecurity, and I'm always eager to learn and explore new technologies.
 
 ## 🌐 Connect with Me:
