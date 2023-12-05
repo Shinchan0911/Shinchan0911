@@ -2,8 +2,7 @@
 
 Hello and welcome to my profile! 👋
 
-I'm Shinchan0911, ShinTHL09, ShinTuna :) <br>
-I'm a passionate Node.js Developer who is currently diving into the world of Java. My interests revolve around IoT and Cybersecurity, and I'm always eager to learn and explore new technologies.
+I'm Shinchan0911, also known as ShinTHL09 and ShinTuna. 😊 I'm a passionate Node.js Developer currently exploring the world of Java. My interests revolve around IoT and Cybersecurity, and I'm always eager to learn and explore new technologies.
 
 ## 🌐 Connect with Me:
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/924332464040706109)
