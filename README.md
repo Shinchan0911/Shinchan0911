@@ -26,4 +26,3 @@ I'm ShinChan0911, also known as ShinTHL09 and ShinTuna. 😊 <br> <br> I'm a pas
 Feel free to explore and connect! Let's code and innovate together. 🚀
 
 ---
-[![Profile Visits](https://visitcount.itsvg.in/api?id=Shinchan0911&icon=0&color=0)](https://visitcount.itsvg.in)
