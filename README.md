@@ -19,9 +19,9 @@ I'm ShinChan0911, also known as ShinTHL09 and ShinTuna. 😊 <br> <br> I'm a pas
 - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shinchan0911&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://streak-stats.demolab.com?user=Shinchan0911&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinchan0911&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Shinchan0911&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Shinchan0911&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shinchan0911&layout=compact&theme=github_dark)
 
 Feel free to explore and connect! Let's code and innovate together. 🚀
 
