@@ -20,7 +20,7 @@ I'm ShinChan0911, also known as ShinTHL09 and ShinTuna. 😊 <br> <br> I'm a pas
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shinchan0911&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shinchan0911&theme=dracula&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shinchan0911&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinchan0911&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 Feel free to explore and connect! Let's code and innovate together. 🚀
